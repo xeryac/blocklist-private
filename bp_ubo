@@ -2,6 +2,8 @@
 ! Description: My blocklist for UBO
 ! Expires: 1 hours
 
+||miraculous.is^
+
 ! Scam / Malware / Phishing
 ||cutiecraft.world^$all
 ||shadowcape.online^$all
