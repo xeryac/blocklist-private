@@ -2,7 +2,10 @@
 ! Description: My blocklist for UBO
 ! Expires: 1 hours
 
-||miraculous.is^
+||miraculous.is^$all
+||miraculous.to^$all
+||miraculous.ws^$all
+||miraculoushub.ac^$all
 
 ! Scam / Malware / Phishing
 ||cutiecraft.world^$all
