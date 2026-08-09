@@ -1,6 +1,7 @@
 ! Title: ! Blocklist Private
 ! Description: My blocklist for UBO
 ! Expires: 1 hours
+! Entries: 9
 
 ||miraculous.is^$all
 ||miraculous.to^$all
