@@ -7,4 +7,4 @@ www.google.com###sfooter
 www.google.com###taw
 
 ! Reddit
-www.reddit.com##.overflow-hidden.relative.p-md.bg-neutral-background-weak.rounded-4.m-md.w-\[251px\].h-\[calc\(100vh-64px-56px\)\].flex-col.flex
+www.reddit.com##.fixed.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
